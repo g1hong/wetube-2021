@@ -1,0 +1,24 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "Youtube clone built using NodeJS, Express, Mongo and ES6",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g1hong/wetube-2021.git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jiwon Hong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/g1hong/wetube-2021/issues"
+  },
+  "homepage": "https://github.com/g1hong/wetube-2021#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.2"
+  }
+}
